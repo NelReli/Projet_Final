@@ -1,0 +1,9 @@
+Depuis toujours, je suis attirée par la création, les outils numériques et les métiers concrets. Après plusieurs années dans des postes administratifs et créatifs, j’ai choisi de me reconvertir dans le développement web, un domaine en constante évolution qui permet de créer des solutions utiles et accessibles à tous. J’ai donc intégré la formation Développeur Web et Web Mobile proposée par LePoleS.
+
+Au fil des mois, j’ai découvert les bases du développement web, les langages HTML, CSS, JavaScript, et surtout le framework Symfony, avec lequel j’ai appris à concevoir des applications dynamiques et sécurisées. C’est dans ce cadre que j’ai imaginé mon projet de fin de formation : TravelAccess, une plateforme collaborative dédiée à l’accessibilité touristique.
+
+Ce sujet me tient particulièrement à cœur, car je suis directement concernée : j’ai dans mon entourage proche des personnes en situation de handicap, et je constate au quotidien les difficultés qu’elles rencontrent pour accéder à certains lieux publics ou touristiques. TravelAccess a donc pour objectif de permettre aux utilisateurs de publier les lieux qu’ils ont visités et d’évaluer leur accessibilité : présence de rampes, d’ascenseurs, de signalétique adaptée, etc. Les lieux sont illustrés, notés, et consultables via une carte interactive ou des filtres par ville et pays.
+
+Ce projet me permet de mobiliser toutes les compétences acquises pendant la formation : base de données, gestion des rôles, sécurité, accessibilité numérique, mise en place de formulaires, interface utilisateur responsive, etc. Mais il est aussi, pour moi, une manière de contribuer à une cause qui a du sens.
+
+À l’issue de la formation, je souhaite intégrer une structure (en alternance ou en CDD) pour continuer à monter en compétence sur des projets réels, tout en gardant cette volonté de créer des outils utiles, accessibles et inclusifs.

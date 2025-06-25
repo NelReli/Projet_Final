@@ -1,0 +1,5 @@
+TravelAccess est une application web collaborative développée avec Symfony, ayant pour objectif de faciliter l’accès à l’information sur l’accessibilité des lieux touristiques pour les personnes en situation de handicap. Les utilisateurs peuvent s’inscrire, publier des lieux visités (musées, hôtels, restaurants, parcs…) et y renseigner leur niveau d’accessibilité (présence de rampes, ascenseurs, signalétique, etc.). Ils peuvent également ajouter des photos, des commentaires, et attribuer une note globale.
+
+Un système de filtres permet de rechercher les lieux par pays, ville ou niveau d’accessibilité. Une carte interactive facilite la visualisation géographique. L’application intègre une interface d’administration pour modérer les contenus et gérer les utilisateurs selon leur rôle (utilisateur, administrateur).
+
+Ce projet met en avant des compétences clés du développeur web, notamment : gestion de contenu dynamique (CRUD), sécurité (authentification, rôles), accessibilité numérique, responsive design, et bonnes pratiques du développement Symfony. Il répond aussi à un besoin réel et personnel, porté par une volonté de rendre le web plus inclusif.
